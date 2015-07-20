@@ -1,4 +1,4 @@
-99G.INVEST
+10G.TEN-G
 Date  	TS    	HU    	Wind    Press 	 Lat  	  Long
 7/19    00      LO      20      1008     5        -147
 +06     10      00      25      1006     4.7      -148.7
